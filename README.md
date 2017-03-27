@@ -1,0 +1,2 @@
+# app-localization
+crowdin-test
